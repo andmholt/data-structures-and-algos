@@ -1,6 +1,6 @@
 # data-structures-and-algos
 
-A collection of some of my projects demonstrating work with various types of data structures and algorithms.
+A collection of some of my projects demonstrating work with various types of data structures and algorithms from scratch.
 
 ### birthdays
 Birthdays uses a self-implemented hashtable with quadratic probing to simulate the collection of randomly surveyed birthdates until a collision is found (when two people have the same birthday).
